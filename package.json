@@ -1,0 +1,27 @@
+{
+  "name": "nowa-proxy",
+  "version": "1.0.0",
+  "description": "nowa proxy server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nowa-webpack/nowa-proxy.git"
+  },
+  "keywords": [
+    "nowa",
+    "webpack",
+    "proxy"
+  ],
+  "author": "gbk <ck0123456@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/nowa-webpack/nowa-proxy#readme",
+  "dependencies": {
+    "anyproxy": "~3.8.1"
+  },
+  "peerDependencies": {
+    "nowa": "~1.0.0"
+  }
+}
