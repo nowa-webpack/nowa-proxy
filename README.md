@@ -20,5 +20,5 @@ $ npm i nowa-proxy -g
 ## Usage
 
 ```bash
-$ nowa help proxy
+$ nowa proxy --help
 ```
