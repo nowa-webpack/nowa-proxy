@@ -1,6 +1,6 @@
 {
   "name": "nowa-proxy",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "nowa proxy server.",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
     "anyproxy": "~3.8.1"
   },
   "peerDependencies": {
-    "nowa": "~1.0.0"
+    "nowa": "~0.1.0"
   }
 }
