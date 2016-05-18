@@ -1,6 +1,6 @@
 {
   "name": "nowa-proxy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "nowa proxy server.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,8 @@
   "license": "MIT",
   "homepage": "https://github.com/nowa-webpack/nowa-proxy#readme",
   "dependencies": {
-    "anyproxy": "~3.8.1"
+    "anyproxy": "~3.8.1",
+    "commander": "~2.9.0"
   },
   "peerDependencies": {
     "nowa": "~0.1.0"
