@@ -13,8 +13,8 @@ nowa proxy server.
 ## Install
 
 ```bash
-$ npm i nowa
-$ npm i nowa-proxy -g
+$ npm i nowa -g
+$ nowa install proxy
 ```
 
 ## Usage
