@@ -2,7 +2,7 @@
 * @Author: gbk <ck0123456@gmail.com>
 * @Date:   2016-04-21 17:34:00
 * @Last Modified by:   gbk
-* @Last Modified time: 2016-05-03 21:38:30
+* @Last Modified time: 2016-05-23 19:40:11
 */
 
 'use strict';
@@ -26,8 +26,8 @@ module.exports = {
 
   options: [
     [ '    --mappings', 'simple proxy mappings' ],
-    [ '-r, --rule [rule file path]', 'path for rule file, rule will overide proxy mappings' ],
-    [ '-t, --throttle [throttle]', 'throttle speed in kb/s' ],
+    [ '-r, --rule <path>', 'path for rule file, rule will overide proxy mappings' ],
+    [ '-t, --throttle <throttle>', 'throttle speed in kb/s' ],
     [ '-s, --silent', 'do not print anything into terminal' ]
   ],
 
