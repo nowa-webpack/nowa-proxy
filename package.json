@@ -19,8 +19,7 @@
   "license": "MIT",
   "homepage": "https://github.com/nowa-webpack/nowa-proxy#readme",
   "dependencies": {
-    "anyproxy": "~3.8.1",
-    "commander": "~2.9.0"
+    "anyproxy": "~3.8.1"
   },
   "peerDependencies": {
     "nowa": "~0.1.0"
