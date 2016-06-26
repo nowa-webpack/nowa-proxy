@@ -1,6 +1,6 @@
 {
   "name": "nowa-proxy",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "description": "nowa proxy server.",
   "main": "index.js",
   "scripts": {
